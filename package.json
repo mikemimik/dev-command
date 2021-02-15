@@ -1,6 +1,6 @@
 {
   "name": "@mikemimik/dev-command",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Base command class for dev-cli; based on oclif framework",
   "main": "index.js",
   "scripts": {
