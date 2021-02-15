@@ -1,0 +1,17 @@
+{
+  "name": "@mikemimik/dev-command",
+  "version": "0.0.1",
+  "description": "Base command class for dev-cli; based on oclif framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dev",
+    "cli",
+    "base",
+    "command"
+  ],
+  "author": "Michael Perrotte <mike@mikecorp.ca>",
+  "license": "MIT"
+}
