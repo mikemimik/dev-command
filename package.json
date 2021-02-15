@@ -13,5 +13,9 @@
     "command"
   ],
   "author": "Michael Perrotte <mike@mikecorp.ca>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@oclif/command": "^1.8.0",
+    "dedent": "^0.7.0"
+  }
 }
